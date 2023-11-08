@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Семантика - сила">
+    <title>Тестовое задание на понимание семантических блоков</title>
+</head>
+
+<body>
+    <header>
+        Верхняя часть
+        <nav>
+            Навигация по верхней части
+        </nav>
+    </header>
+    <aside>
+        Какая либо-инофрмация
+    </aside>
+    <main>
+        Основное меню страницы
+        <section>
+            Разделы
+            <article>
+                Статья 1
+            </article>
+            <article>
+                Статья 2
+            </article>
+        </section>
+    </main>
+    <footer>
+        Подвал
+        <nav>
+            Навигация по подвалу
+        </nav>
+    </footer>
+</body>
+</html>
