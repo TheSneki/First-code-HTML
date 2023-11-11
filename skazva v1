@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <title>Русская сказка</title>
+</head>
+
+<body>
+    <header>
+        <nav id='top-nav'>
+            <div>
+                <p>Примеры сказок</p>
+                <ul>
+                    <li>Сказка 1</li>
+                    <li>Сказка 2</li>
+                    <li>Сказка 3</li>
+                </ul>
+                <a href="https://www.example.com">
+                    <img src="https://gas-kvas.com/grafic/uploads/posts/2023-09/1695840895_gas-kvas-com-p-kartinki-skazki-russkie-narodnie-39.jpg"
+                        alt="Пример картинки из сказки">
+                    <span>Дополнительный текст</span>
+                </a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <h1>Начало сказок</h1>
+            <article>
+                <ul>
+                    <li>Начало 1</li>
+                    <li>Начало 2</li>
+                </ul>
+                <p>Начала бывают разные</p>
+                <a href="https://www.example.com">Ссылка на пример</a>
+            </article>
+            <hr>
+        </div>
+    </main>
+    <footer>
+        <p>
+            Конец сказки
+            <span>Дополнительный текст</span>
+        </p>
+    </footer>
+</body>
+
+</html>
